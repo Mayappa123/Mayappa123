@@ -16,6 +16,15 @@ I'm passionate about sharing knowledge through my code, articles, posts, and tal
 
 ---
 
+---
+
+<div align="center">
+  <h3>👀 Visitor Count:</h3>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Mayappa123.Mayappa123" alt="Visitor Count" />
+</div>
+
+---
+
 🚀 My GitHub Stats:
 
 ![Mayappa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayappa123&show_icons=true&theme=radical)
