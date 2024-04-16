@@ -38,7 +38,7 @@ I'm passionate about sharing knowledge through my code, articles, posts, and tal
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayappa-blue)](https://www.linkedin.com/in/mayappa/)
 [![Twitter](https://img.shields.io/twitter/follow/MayappaPujari5?style=social)](https://twitter.com/MayappaPujari5)
 [![GitHub](https://img.shields.io/github/followers/Mayappa123?style=social)](https://github.com/Mayappa123)
-[![Website](https://img.shields.io/badge/Website-mayappa.com-green)](https://mayappa.com)
+[![Gmail](https://img.shields.io/gmail/follow/Mayappa123?style=social)](mailto:mayappapujari561999@gmail.com)
 
 
 
