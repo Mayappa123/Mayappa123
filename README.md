@@ -1,5 +1,5 @@
 ### Hi, I'm Mayappa 👋
-
+I share knowledge through my code, articles, posts and talks💙️.
 <!--
 **Mayappa123/Mayappa123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
