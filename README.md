@@ -1,5 +1,7 @@
 ### Hi there, I'm Mayappa! 👋
 
+🌱 I’m currently learning Web development & Java language.
+
 I'm passionate about sharing knowledge through my code, articles, posts, and talks. 💙️
 
 🔭 I’m currently working on some exciting projects!
