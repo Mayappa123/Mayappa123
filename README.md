@@ -40,12 +40,6 @@ Feel free to connect with me through the following platforms:
 [![Twitter](https://img.shields.io/twitter/follow/MayappaPujari5?style=social)](https://twitter.com/MayappaPujari5)
 [![GitHub](https://img.shields.io/badge/GitHub-Mayappa123-white?logo=github)](https://github.com/Mayappa123/)
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-blue?logo=linkedin)](https://www.linkedin.com/in/mayappa-pujari-625432182)
-[![Gmail](https://img.shields.io/badge/Email-%20-red?logo=gmail)](mailto:mayappapujari561999@gmail.com)
-[![Twitter](https://img.shields.io/twitter/MayappaPujari5?style=social)](https://twitter.com/MayappaPujari5)
-[![GitHub](https://img.shields.io/badge/%20-white?logo=github)](https://github.com/Mayappa123/)
-
 <!--
 ### Hi, I'm Mayappa 👋
 I share knowledge through my code, articles, posts and talks💙️.
