@@ -6,19 +6,6 @@
 
 I'm passionate about sharing knowledge through my code, articles, posts, and talks. 💙️
 
-🔭 I’m currently working on some exciting projects!
-
-🌱 I’m always learning and growing in my skills.
-
-💬 Ask me about anything related to Java Programming, technology, or Web Development!
-
-📫 How to reach me: [7522995689]
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: [Insert Fun Fact]
-
----
 
 ---
 
