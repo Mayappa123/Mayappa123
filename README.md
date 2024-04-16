@@ -2,6 +2,8 @@
 
 🌱 I’m currently learning Web development & Java language.
 
+💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
+
 I'm passionate about sharing knowledge through my code, articles, posts, and talks. 💙️
 
 🔭 I’m currently working on some exciting projects!
