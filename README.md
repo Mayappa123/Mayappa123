@@ -23,6 +23,12 @@ I'm passionate about sharing knowledge through my code, articles, posts, and tal
 
 ---
 
+📊 Most Used Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayappa123&layout=compact&theme=radical)
+
+---
+
 🔥 GitHub Streak Stats:
 
 ![Mayappa's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayappa123&theme=radical)
