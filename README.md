@@ -10,8 +10,9 @@ I'm passionate about sharing knowledge through my code, articles, posts, and tal
 ---
 
 <div align="center">
-  <h3>👀 Visitor Count:</h3>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Mayappa123.Mayappa123" alt="Visitor Count" />
+  <h3>👀 Visitor Count:</h3>
+  
 </div>
 
 ---
