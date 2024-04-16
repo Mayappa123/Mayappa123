@@ -6,9 +6,9 @@ I'm passionate about sharing knowledge through my code, articles, posts, and tal
 
 🌱 I’m always learning and growing in my skills.
 
-💬 Ask me about anything related to programming, technology, or software development!
+💬 Ask me about anything related to Java Programming, technology, or Web Development!
 
-📫 How to reach me: [Insert Your Contact Information]
+📫 How to reach me: [7522995689]
 
 😄 Pronouns: He/Him
 
