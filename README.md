@@ -32,6 +32,8 @@ I'm passionate about sharing knowledge through my code, articles, posts, and tal
 ![Mayappa's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayappa123&theme=radical)
 
 ---
+### Let's connect 💬
+Feel free to connect with me through the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayappa-blue)](https://www.linkedin.com/in/mayappa-pujari-625432182)
 [![Gmail](https://img.shields.io/badge/Email-mayappapujari561999%40gmail.com-red)](mailto:mayappapujari561999@gmail.com)
