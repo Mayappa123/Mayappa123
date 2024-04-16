@@ -33,14 +33,11 @@ I'm passionate about sharing knowledge through my code, articles, posts, and tal
 
 ---
 
-<a href="https://www.linkedin.com/in/mayappa-pujari-625432182" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align:middle">
-  Mayappa Pujari
-</a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayappa-blue)](https://www.linkedin.com/in/mayappa-pujari-625432182)
+[![Gmail](https://img.shields.io/badge/Email-mayappapujari561999%40gmail.com-red)](mailto:mayappapujari561999@gmail.com)
 [![Twitter](https://img.shields.io/twitter/MayappaPujari5?style=social)](https://twitter.com/MayappaPujari5)
 [![GitHub](https://img.shields.io/github/Mayappa123?style=social)](https://github.com/Mayappa123)
-[![Gmail](https://img.shields.io/badge/Email-mayappapujari561999%40gmail.com-red)](mailto:mayappapujari561999@gmail.com)
+
 
 <!--
 ### Hi, I'm Mayappa 👋
