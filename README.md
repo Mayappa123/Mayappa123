@@ -6,7 +6,6 @@
 
 I'm passionate about sharing knowledge through my code, articles, posts, and talks. 💙️
 
-
 ---
 
 <div align="center">
@@ -28,19 +27,9 @@ I'm passionate about sharing knowledge through my code, articles, posts, and tal
 
 ---
 
-
-
----
-
 🔥 GitHub Streak Stats:
 
 ![Mayappa's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayappa123&theme=radical)
-
----
-
-👀 Profile Visitors:
-
-![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=Mayappa123.Mayappa123)
 
 ---
 
