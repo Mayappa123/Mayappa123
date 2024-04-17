@@ -33,17 +33,17 @@ I love sharing knowledge through my code, articles, posts, and talks. 💙️
 
 ### Languages and Tools:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+[<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40" style="margin-right: 20px;"/>](https://en.wikipedia.org/wiki/HTML5)
+[<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" style="margin-right: 20px;"/>](https://en.wikipedia.org/wiki/CSS)
+[<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" style="margin-right: 20px;"/>](https://en.wikipedia.org/wiki/JavaScript)
+[<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" style="margin-right: 20px;"/>](https://reactjs.org/)
+[<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" style="margin-right: 20px;"/>](https://nodejs.org/)
+[<img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40" style="margin-right: 20px;"/>](https://expressjs.com/)
+[<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" style="margin-right: 20px;"/>](https://www.mongodb.com/)
+[<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" style="margin-right: 20px;"/>](https://www.mysql.com/)
+[<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" style="margin-right: 20px;"/>](https://git-scm.com/)
+[<img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="40" style="margin-right: 20px;"/>](https://github.com/)
+[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="40" style="margin-right: 0;"/>](https://www.java.com/)
 
 ---
 
