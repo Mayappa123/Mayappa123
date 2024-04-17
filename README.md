@@ -1,11 +1,11 @@
  
 <h1> 👋 Hi I'm Mayappa! </h1>
 
-I'm a passionate learner currently focusing on web Development.
+🚀 I'm a passionate learner currently focusing on web development.
 
-💞️ I'm eager to collaborate on exciting and innovative projects that align with my skills and interests.
+🤝 I'm eager to collaborate on exciting and innovative projects that align with my skills and interests.
 
-💙️I love sharing knowledge through my code, articles, posts, and talks. 
+📚 I love sharing knowledge through my code, articles, posts, and talks.
 
 ---
  ### 🚀 My GitHub Stats:
