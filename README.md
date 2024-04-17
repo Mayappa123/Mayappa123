@@ -58,7 +58,7 @@
 
 ---
 ### Some GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mayappa123&theme=flat)](https://github.com/Mayappa123/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mayappa123&theme=radical)](https://github.com/Mayappa123/github-profile-trophy)
 
 ---
 
