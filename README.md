@@ -33,7 +33,7 @@ I love sharing knowledge through my code, articles, posts, and talks. 💙️
 
 ### Languages and Tools:
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; flex-grow: 1">
   <a href="https://en.wikipedia.org/wiki/HTML5" style="margin-right: 20px; text-decoration: none;">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="50" style="border-radius: 10px;"/>
   </a>
