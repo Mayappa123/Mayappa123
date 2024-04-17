@@ -14,7 +14,7 @@ I love sharing knowledge through my code, articles, posts, and talks. 💙️
 </div>
 
 ---
-<div>
+<div style="display: flex; justify-content: space-between;">
   🚀 My GitHub Stats:
 
 ![Mayappa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayappa123&show_icons=true&theme=radical)
