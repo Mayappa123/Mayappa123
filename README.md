@@ -1,5 +1,5 @@
  
-<h1>👋 Hi I'm Mayappa123 (Mayappa Pujari)! </h1> 
+<h2>👋 Hi I'm Mayappa123 (Mayappa Pujari)! </h2> 
 
 
 🚀 I'm a passionate learner currently focusing on web development.
