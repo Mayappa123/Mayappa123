@@ -32,19 +32,43 @@ I love sharing knowledge through my code, articles, posts, and talks. 💙️
 ---
 
 ### Languages and Tools:
+
 <div style="display: flex; justify-content: center;">
-[<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="50" style="margin-right: 20px;"/>](https://en.wikipedia.org/wiki/HTML5)
-[<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" style="margin-right: 20px;"/>](https://en.wikipedia.org/wiki/CSS)
-[<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" style="margin-right: 20px;"/>](https://en.wikipedia.org/wiki/JavaScript)
-[<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50" style="margin-right: 20px;"/>](https://reactjs.org/)
-[<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50" style="margin-right: 20px;"/>](https://nodejs.org/)
-[<img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="50" style="margin-right: 20px;"/>](https://expressjs.com/)
-[<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="50" style="margin-right: 20px;"/>](https://www.mongodb.com/)
-[<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50" style="margin-right: 20px;"/>](https://www.mysql.com/)
-[<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" style="margin-right: 20px;"/>](https://git-scm.com/)
-[<img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="50" style="margin-right: 20px;"/>](https://github.com/)
-[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="50" style="margin-right: 0;"/>](https://www.java.com/)
+  <a href="https://en.wikipedia.org/wiki/HTML5" style="margin-right: 20px; text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="50" style="border-radius: 10px;"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/CSS" style="margin-right: 20px; text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" style="border-radius: 10px;"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript" style="margin-right: 20px; text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" style="border-radius: 10px;"/>
+  </a>
+  <a href="https://reactjs.org/" style="margin-right: 20px; text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50" style="border-radius: 10px;"/>
+  </a>
+  <a href="https://nodejs.org/" style="margin-right: 20px; text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50" style="border-radius: 10px;"/>
+  </a>
+  <a href="https://expressjs.com/" style="margin-right: 20px; text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="50" style="border-radius: 10px;"/>
+  </a>
+  <a href="https://www.mongodb.com/" style="margin-right: 20px; text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="50" style="border-radius: 10px;"/>
+  </a>
+  <a href="https://www.mysql.com/" style="margin-right: 20px; text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50" style="border-radius: 10px;"/>
+  </a>
+  <a href="https://git-scm.com/" style="margin-right: 20px; text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" style="border-radius: 10px;"/>
+  </a>
+  <a href="https://github.com/" style="margin-right: 20px; text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="50" style="border-radius: 10px;"/>
+  </a>
+  <a href="https://www.java.com/" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="50" style="border-radius: 10px;"/>
+  </a>
 </div>
+
 
 ---
 
