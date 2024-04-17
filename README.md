@@ -1,4 +1,4 @@
-### Hi there, I'm Mayappa! 👋
+### 👋 Hi I'm Mayappa! 
 
 I'm a passionate learner currently focusing on web development and Java.
 
