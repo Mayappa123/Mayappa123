@@ -51,8 +51,9 @@ I love sharing knowledge through my code, articles, posts, and talks. 💙️
 
 Feel free to connect with me through the following platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayappa-blue)](https://www.linkedin.com/in/mayappa-pujari-625432182)
-[![Gmail](https://img.shields.io/badge/Email-mayappapujari561999%40gmail.com-red)](mailto:mayappapujari561999@gmail.com)
-[![Twitter](https://img.shields.io/twitter/follow/MayappaPujari5)](https://twitter.com/MayappaPujari5)
-[![GitHub](https://img.shields.io/badge/GitHub-Mayappa123-white?logo=github)](https://github.com/Mayappa123/)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/mayappa-pujari-625432182)
+[<img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" width="40"/>](mailto:mayappapujari561999@gmail.com)
+[<img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="40"/>](https://twitter.com/MayappaPujari5)
+[<img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="40"/>](https://github.com/Mayappa123/)
+
 
