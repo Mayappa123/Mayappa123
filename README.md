@@ -56,7 +56,9 @@ I love sharing knowledge through my code, articles, posts, and talks. 💙️
 Feel free to connect with me through the following platforms:
 
 [<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" style="margin-right: 40px;"/>](https://www.linkedin.com/in/mayappa-pujari-625432182)
-[<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" style="margin-right: 40px;"/>](mailto:mayappapujari561999@gmail.com)
 [<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" style="margin-right: 0px;"/>](https://github.com/Mayappa123/)
+[<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" style="margin-right: 40px;"/>](mailto:mayappapujari561999@gmail.com)
+[<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" style="margin-right: 40px;"/>](mailto:mayappapujari561999@gmail.com)
+
 
 
