@@ -8,6 +8,8 @@
 
 📚 I love sharing knowledge through my code, articles, posts, and talks.
 
+![Web Developer GIF](https://media.giphy.com/media/3oKIPf7Srxp7s5tIyQ/giphy.gif)
+
 ---
  ### 🚀 My GitHub Stats:
  
