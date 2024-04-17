@@ -10,7 +10,9 @@ I love sharing knowledge through my code, articles, posts, and talks. 💙️
 
 <div align="center">
   <h3>👀 Visitor Count:</h3>
-  ![Visitor Count](https://profile-counter.glitch.me/{Mayappa123}/count.svg)
+  
+  ![Visitor Count](https://profile-counter.glitch.me/Mayappa123/count.svg)
+  
 </div>
 
 ---
