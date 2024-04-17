@@ -68,5 +68,8 @@ Feel free to connect with me through the following platforms:
   
 </div>
 
+[![My Repository](https://github-readme-stats.vercel.app/api/pin/?username=Mayappa123&repo=github-readme-stats&theme=yeblu)](https://github.com/Mayappa123/Mayappa123)
+
+
 
 
