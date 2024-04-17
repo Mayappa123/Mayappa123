@@ -34,6 +34,9 @@ I love sharing knowledge through my code, articles, posts, and talks. 💙️
 ### Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 
 ---
 
