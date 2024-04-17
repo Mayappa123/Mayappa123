@@ -1,6 +1,5 @@
  
- ### 👋 Hi I'm Mayappa! 
- <hr>
+ ### 👋 Hi I'm Mayappa123 (Mayappa Pujari)! 
 
 🚀 I'm a passionate learner currently focusing on web development.
 
