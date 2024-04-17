@@ -17,6 +17,8 @@
   
 </div>
 
+![](https://gitwar.herokuapp.com/badge?username=Mayappa123&color=brightgreen)
+
  ### 🚀 My GitHub Stats:
  
 <div >
