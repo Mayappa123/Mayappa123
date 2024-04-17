@@ -1,5 +1,5 @@
  
-<h1> 👋 Hi I'm Mayappa! </h1>
+ ### 👋 Hi I'm Mayappa! 
 
 🚀 I'm a passionate learner currently focusing on web development.
 
