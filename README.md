@@ -8,9 +8,15 @@
 
 📚 I love sharing knowledge through my code, articles, posts, and talks.
 
-![Web Developer GIF](https://media.giphy.com/media/3oKIPf7Srxp7s5tIyQ/giphy.gif)
 
 ---
+<div align="center">
+  <h3>👀 Visitor Count:</h3>
+ 
+  ![Visitor Count](https://profile-counter.glitch.me/Mayappa123/count.svg)
+  
+</div>
+
  ### 🚀 My GitHub Stats:
  
 <div >
@@ -62,13 +68,6 @@ Feel free to connect with me through the following platforms:
 [<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" style="margin-right: 0;"/>](mailto:mayappapujari561999@gmail.com)
 
 ---
-
-<div align="center">
-  <h3>👀 Visitor Count:</h3>
- 
-  ![Visitor Count](https://profile-counter.glitch.me/Mayappa123/count.svg)
-  
-</div>
 
 [![My Repository](https://github-readme-stats.vercel.app/api/pin/?username=Mayappa123&repo=Mayappa123&theme=yeblu)](https://github.com/Mayappa123/Mayappa123)
 
