@@ -32,7 +32,7 @@ I love sharing knowledge through my code, articles, posts, and talks. 💙️
 ---
 
 ### Languages and Tools:
-
+<div style="display: flex; justify-content: center;">
 [<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="50" style="margin-right: 20px;"/>](https://en.wikipedia.org/wiki/HTML5)
 [<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" style="margin-right: 20px;"/>](https://en.wikipedia.org/wiki/CSS)
 [<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" style="margin-right: 20px;"/>](https://en.wikipedia.org/wiki/JavaScript)
@@ -44,6 +44,7 @@ I love sharing knowledge through my code, articles, posts, and talks. 💙️
 [<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" style="margin-right: 20px;"/>](https://git-scm.com/)
 [<img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="50" style="margin-right: 20px;"/>](https://github.com/)
 [<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="50" style="margin-right: 0;"/>](https://www.java.com/)
+</div>
 
 ---
 
