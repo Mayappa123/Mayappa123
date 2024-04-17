@@ -47,7 +47,9 @@ I love sharing knowledge through my code, articles, posts, and talks. 💙️
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+
 
 ---
 
