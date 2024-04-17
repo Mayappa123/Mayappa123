@@ -16,10 +16,8 @@ I love sharing knowledge through my code, articles, posts, and talks. 💙️
 ---
  ### 🚀 My GitHub Stats:
 <div >
-  
-![Mayappa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayappa123&show_icons=true&theme=radical)
 
-📊 Most Used Languages:
+![Mayappa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayappa123&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayappa123&layout=compact&theme=radical)
 </div>
 
