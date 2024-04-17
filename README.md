@@ -17,7 +17,7 @@
   
 </div>
 
-<button src="https://profile-counter.glitch.me/Mayappa123/count.svg" alt="Visitor Count" style="border-radius: 5px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);"><button />
+<img src="https://profile-counter.glitch.me/Mayappa123/count.svg" alt="Visitor Count" style="border-radius: 5; width:40; box-shadow: 0 0 10 rgba(0, 0, 0, 0.1);"/>
 
  ### 🚀 My GitHub Stats:
  
