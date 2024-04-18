@@ -1,5 +1,5 @@
 <h2>👋 Hi I'm Mayappa123 (Mayappa Pujari)! </h2> 
-<a href="https://drive.google.com/file/d/1O0yu9VZ1iMQR28-Ts0DEW7uDfKQH6WnK/view?usp=drivesdk" target="_blank">View My Resume</a>
+<a href="https://drive.google.com/file/d/1O0yu9VZ1iMQR28-Ts0DEW7uDfKQH6WnK/view?usp=drivesdk" target="_blank">View My Resume</a> for more details.
 
 🚀 I'm a passionate learner currently focusing on web development.
 
