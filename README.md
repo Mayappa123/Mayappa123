@@ -1,4 +1,5 @@
 <h2>👋 Hi I'm Mayappa123 (Mayappa Pujari)! </h2> 
+<p>[Download My Resume](https://example.com/path/to/your/resume.pdf)</p>
 
 🚀 I'm a passionate learner currently focusing on web development.
 
