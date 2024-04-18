@@ -21,7 +21,7 @@
 
  ### 🚀 My GitHub Stats:
  
-<div >
+<div style=display: flex>
   
 ![Mayappa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayappa123&show_icons=true&theme=yeblu)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayappa123&layout=compact&theme=yeblu)
