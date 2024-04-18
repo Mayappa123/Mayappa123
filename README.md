@@ -1,13 +1,10 @@
- 
 <h2>👋 Hi I'm Mayappa123 (Mayappa Pujari)! </h2> 
-
 
 🚀 I'm a passionate learner currently focusing on web development.
 
 🤝 I'm eager to collaborate on exciting and innovative projects that align with my skills and interests.
 
 📚 I love sharing knowledge through my code, articles, posts, and talks.
-
 
 ---
 <div align="center">
@@ -17,11 +14,11 @@
   
 </div>
 
+---
 
-
- ### 🚀 My GitHub Stats:
+### 🚀 My GitHub Stats:
  
-<div style=display: flex>
+<div style="display: flex; justify-content: space-between;">
   
 ![Mayappa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayappa123&show_icons=true&theme=yeblu)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayappa123&layout=compact&theme=yeblu)
@@ -57,8 +54,8 @@
 [![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
-
 ---
+
 ### Some GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mayappa123&theme=radical)](https://github.com/Mayappa123/github-profile-trophy)
 
@@ -80,5 +77,3 @@ Feel free to connect with me through the following platforms:
 [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mayappa123&repo=majorproject&theme=yeblu)](https://github.com/Mayappa123/majorproject)
 [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mayappa123&repo=React&theme=radical)](https://github.com/Mayappa123/React)
 [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mayappa123&repo=Projects&theme=radical)](https://github.com/Mayappa123/Projects)
-
-
