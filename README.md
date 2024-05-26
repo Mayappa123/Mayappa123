@@ -1,6 +1,6 @@
 <h2>👋 Hi I'm Mayappa123 (Mayappa Pujari)! </h2> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Web+Developer; Front+End+Developer; Back+End+Developer)](https://git.io/typing-svg)
 
 🚀 I'm a passionate learner currently focusing on web development.
 
