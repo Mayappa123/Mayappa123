@@ -74,11 +74,5 @@ Feel free to connect with me through the following platforms:
 [<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="45" style="margin-right: 40;"/>](mailto:mayappapujari561999@gmail.com)
 [<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" style="margin-right: 0;"/>](mailto:mayappapujari561999@gmail.com)
 
----
 
-[![My Repository](https://github-readme-stats.vercel.app/api/pin/?username=Mayappa123&repo=Mayappa123&theme=yeblu)](https://github.com/Mayappa123/Mayappa123)
-
-[![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mayappa123&repo=majorproject&theme=yeblu)](https://github.com/Mayappa123/majorproject)
-[![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mayappa123&repo=React&theme=radical)](https://github.com/Mayappa123/React)
-[![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mayappa123&repo=Projects&theme=radical)](https://github.com/Mayappa123/Projects)
 
