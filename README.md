@@ -74,5 +74,16 @@ Feel free to connect with me through the following platforms:
 [<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="45" style="margin-right: 40;"/>](mailto:mayappapujari561999@gmail.com)
 [<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" style="margin-right: 0;"/>](mailto:mayappapujari561999@gmail.com)
 
+---
+
+# My Projects
+
+| Serial No. | Project Name       | Live Link                                         | Repo Link                                       |
+|------------|--------------------|--------------------------------------------------|------------------------------------------------|
+| 1          | Weather App        | [Live](https://your-live-link.com)               | [Repo](https://github.com/your-username/weather-app) |
+| 2          | Tic-Tac-Toe Game   | [Live](https://your-live-link.com)               | [Repo](https://github.com/your-username/tic-tac-toe)  |
+| 3          | Fitness Landing Page | [Live](https://your-live-link.com)            | [Repo](https://github.com/your-username/fitness-landing-page) |
+| 4          | Stopwatch App      | [Live](https://your-live-link.com)               | [Repo](https://github.com/your-username/stopwatch-app) |
+| 5          | Node.js Practice   | [Live](https://your-live-link.com)               | [Repo](https://github.com/your-username/nodejs-practice) |
 
 
