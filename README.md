@@ -22,10 +22,29 @@
 
 ### 🚀 My GitHub Stats:
  
-<div style="display: flex; justify-content: space-between;">
+<style>
+        .card-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 20px;
+            background-color: #282a36; /* Matching Dracula theme background */
+            padding: 20px;
+            border-radius: 10px;
+        }
+        .card-container img {
+            width: 100%;
+            max-width: 400px; /* Adjust based on your preference */
+            border-radius: 10px;
+        }
+    </style>
   
-![Mayappa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayappa123&show_icons=true&theme=yeblu)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayappa123&layout=compact&theme=yeblu)
+<div class="card-container">
+        <img src="https://github-readme-stats.vercel.app/api?username=Mayappa123&show_icons=true&theme=dracula&hide_border=true" alt="Mayappa's GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayappa123&layout=compact&theme=dracula&hide_border=true" alt="Most Used Languages">
+    </div>
+
 
 </div>
 
