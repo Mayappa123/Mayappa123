@@ -84,4 +84,3 @@ Feel free to connect with me through the following platforms:
 | 4          | Stopwatch App      | [Live](https://your-live-link.com)               | [Repo](https://github.com/Mayappa123/stopwatch-app) |
 | 5          | Node.js Practice   | [Live](https://your-live-link.com)               | [Repo](https://github.com/Mayappa123/nodejs-practice) |
 
-
