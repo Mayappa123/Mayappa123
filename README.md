@@ -23,7 +23,7 @@
 ### 🚀 My GitHub Stats:
  
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayappa123&show_icons=true&theme=yeblu&hide_border=true" alt="Mayappa's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayappa123&show_icons=true&theme=yeblu&hide_border=true" alt="Mayappa's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayappa123&layout=compact&theme=yeblu&hide_border=true" alt="Most Used Languages" />
 </p>
 
