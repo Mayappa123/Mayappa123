@@ -76,10 +76,10 @@ Feel free to connect with me through the following platforms:
 
 # My Projects
 
-| Serial No. | Project Name       | Live Link                                         | Repo Link                                       |
-|------------|--------------------|--------------------------------------------------|------------------------------------------------|
-| 1          | Weather App        | [Live](https://your-live-link.com)               | [Repo](https://github.com/Mayappa123/weather-app) |
-| 2          | Tic-Tac-Toe Game   | [Live](https://mayappa123.github.io/PRODIGY_WD_03/)               | [Repo](https://github.com/Mayappa123/PRODIGY_WD_03)  |
-| 3          | Fitness Landing Page |[Live](https://your-live-link.com)            | [Repo](https://github.com/Mayappa123/fitness-landing-page) |
-| 4          | Stopwatch App      | [Live](https://mayappa123.github.io/PRODIGY_WD_02/))               | [Repo](https://github.com/Mayappa123/stopwatch-app) |
-| 5          | Node.js Practice   | [Live](https://your-live-link.com)               | [Repo](https://github.com/Mayappa123/nodejs-practice) |
+| Serial No. | Project Name       | Live Link                                            | Repo Link                                       |
+|------------|--------------------|------------------------------------------------------|------------------------------------------------|
+| 1          | Weather App        | [Live](https://your-live-link.com)                   | [Repo](https://github.com/Mayappa123/weather-app) |
+| 2          | Tic-Tac-Toe Game   | [Live](https://mayappa123.github.io/PRODIGY_WD_03/)  | [Repo](https://github.com/Mayappa123/PRODIGY_WD_03)  |
+| 3          | Fitness Landing Page |[Live](https://your-live-link.com)                  | [Repo](https://github.com/Mayappa123/fitness-landing-page) |
+| 4          | Stopwatch App      | [Live](https://mayappa123.github.io/PRODIGY_WD_02/)  | [Repo](https://github.com/Mayappa123/stopwatch-app) |
+| 5          | Node.js Practice   | [Live](https://your-live-link.com)                   | [Repo](https://github.com/Mayappa123/nodejs-practice) |
