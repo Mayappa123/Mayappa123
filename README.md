@@ -8,7 +8,8 @@
 
 📚 I love sharing knowledge through my code, articles, posts, and talks.
 
-📃 <a href="https://drive.google.com/file/d/1O0yu9VZ1iMQR28-Ts0DEW7uDfKQH6WnK/view?usp=drivesdk" target="_blank">View My Resume</a> for more details.
+📃 <a href="https://drive.google.com/file/d/1T5F43dmgrG4GEYv5osCbTZVmx8NfioTT/view?usp=drive_link" target="_blank">View My Resume</a> for more details.
+
 
 ---
 <div align="center">
