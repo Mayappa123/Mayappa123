@@ -81,6 +81,5 @@ Feel free to connect with me through the following platforms:
 |------------|--------------------|------------------------------------------------------|------------------------------------------------|
 | 1          | Weather App        | [Live](https://mayappa123.github.io/weatherApp/)     | [Repo](https://github.com/Mayappa123/weatherApp) |
 | 2          | Tic-Tac-Toe Game   | [Live](https://mayappa123.github.io/PRODIGY_WD_03/)  | [Repo](https://github.com/Mayappa123/PRODIGY_WD_03)  |
-| 3          | Fitness Landing Page |[Live](https://your-live-link.com)                  | [Repo](https://github.com/Mayappa123/fitness-landing-page) |
-| 4          | Stopwatch App      | [Live](https://mayappa123.github.io/PRODIGY_WD_02/)  | [Repo](https://github.com/Mayappa123/stopwatch-app) |
-| 5          | Node.js Practice   | [Live](https://mayappa123.github.io/Portfolio/)      | [Repo](https://github.com/Mayappa123/Portfolio) |
+| 3          | Stopwatch App      | [Live](https://mayappa123.github.io/PRODIGY_WD_02/)  | [Repo](https://github.com/Mayappa123/stopwatch-app) |
+| 4          | Portfolio          | [Live](https://mayappa123.github.io/Portfolio/)      | [Repo](https://github.com/Mayappa123/Portfolio) |
