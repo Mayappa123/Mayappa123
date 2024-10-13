@@ -39,11 +39,11 @@
 ### 🔥 LeetCode Streak Stats:
 
 ![Mayappa's LeetCode Stats](https://leetcard.jacoblin.cool/Mayappa123?theme=unicorn&ext=heatmap)
-![Mayappa's LeetCode Stats](https://leetcard.jacoblin.cool/Mayappa123?theme=unicorn?theme=dark)
-![Mayappa's LeetCode Stats](https://leetcard.jacoblin.cool/Mayappa123?theme=unicorn?theme=nord)
-![Mayappa's LeetCode Stats](https://leetcard.jacoblin.cool/Mayappa123?theme=unicorn?theme=forest)
-![Mayappa's LeetCode Stats](https://leetcard.jacoblin.cool/Mayappa123?theme=unicorn?theme=wtf)
-![Mayappa's LeetCode Stats](https://leetcard.jacoblin.cool/Mayappa123?theme=unicorn?theme=transparent)
+![Mayappa's LeetCode Stats](https://leetcard.jacoblin.cool/Mayappa123?theme=dark)
+![Mayappa's LeetCode Stats](https://leetcard.jacoblin.cool/Mayappa123?theme=nord)
+![Mayappa's LeetCode Stats](https://leetcard.jacoblin.cool/Mayappa123?theme=forest)
+![Mayappa's LeetCode Stats](https://leetcard.jacoblin.cool/Mayappa123?theme=wtf)
+![Mayappa's LeetCode Stats](https://leetcard.jacoblin.cool/Mayappa123?theme=transparent)
 
 
 ---
