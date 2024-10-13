@@ -39,8 +39,9 @@
 ### 🔥 LeetCode Streak Stats:
 
 ![Mayappa's LeetCode Stats](https://leetcard.jacoblin.cool/Mayappa123?theme=unicorn&ext=heatmap)
-![LeetCode Problems Solved](https://leetcode-badge-api.herokuapp.com/api/Mayappa123/solved?style=for-the-badge)
-![LeetCode Ranking](https://leetcode-badge-api.herokuapp.com/api/Mayappa123/ranking?style=for-the-badge)
+![LeetCode Problems Solved](https://img.shields.io/badge/LeetCode_Problems_Solved-300-yellow?style=for-the-badge)
+![LeetCode Ranking](https://img.shields.io/badge/LeetCode_Ranking-Top%2010%25-green?style=for-the-badge)
+
 
 
 ---
