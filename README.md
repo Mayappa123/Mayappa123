@@ -40,7 +40,6 @@
 
 ![Mayappa's LeetCode Stats](https://leetcard.jacoblin.cool/Mayappa123?theme=unicorn&ext=heatmap)
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/Mayappa123?theme=unicorn&ext=heatmap)
-![LeetCode Activity](https://leetcard.jacoblin.cool/Mayappa123?theme=unicorn&ext=activity)
 
 ---
 
