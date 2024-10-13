@@ -33,6 +33,8 @@
 ### 🔥 GitHub Streak Stats:
 
 ![Mayappa's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayappa123&theme=yeblu)
+(https://leetcode-stats-api.herokuapp.com/?user=Mayappa123&theme=yeblu)
+
 
 ---
 
