@@ -1,50 +1,81 @@
-<h1> 👋 Hi I'm Mayappa! </h1>
+<h2>👋 Hi I'm Mayappa123 (Mayappa Pujari)! </h2> 
 
-🚀 I'm a passionate learner currently focusing on web development.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Full+Stack+Web+Developer;Front+End+Developer;Back+End+Developer)](https://git.io/typing-svg)
 
-🤝 I'm eager to collaborate on exciting and innovative projects that align with my skills and interests.
+<table>
+    <tr>
+        <td>
+            🚀 I'm a passionate learner currently focusing on web development.  
+            <br/><br/>
+            🤝 I'm eager to collaborate on exciting and innovative projects that align with my skills and interests.  
+            <br/><br/>
+            📚 I love sharing knowledge through my code, articles, posts, and talks.  
+            <br/><br/>
+            📃 <a href="https://drive.google.com/file/d/1T5F43dmgrG4GEYv5osCbTZVmx8NfioTT/view?usp=drive_link" target="_blank">View My Resume</a> for more details.
+        </td>
+        <td>
+            <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+        </td>
+    </tr>
+</table>
 
-📚 I love sharing knowledge through my code, articles, posts, and talks.
 
 ---
- ### 🚀 My GitHub Stats:
+<div align="center">
+  <h3>👀 Visitor Count</h3>
  
-<div >
+  ![Visitor Count](https://profile-counter.glitch.me/Mayappa123/count.svg)
   
-![Mayappa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayappa123&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayappa123&layout=compact&theme=radical)
-
 </div>
 
 ---
 
-🔥 GitHub Streak Stats:
+### 🚀 My GitHub Stats:
+ 
+<p align="center">
+  <img height="222em" src="https://github-readme-stats.vercel.app/api?username=Mayappa123&show_icons=true&theme=yeblu&hide_border=true" alt="Mayappa's GitHub Stats" />
+  <img height="222em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayappa123&layout=compact&theme=yeblu&hide_border=true" alt="Most Used Languages" />
+</p>
 
-![Mayappa's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayappa123&theme=radical)
+---
+
+### 🔥 GitHub Streak Stats:
+
+![Mayappa's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayappa123&theme=yeblu)
+
+---
+
+### 🔥 LeetCode Streak Stats:
+
+![Mayappa's LeetCode Stats](https://leetcard.jacoblin.cool/Mayappa123?theme=dark&ext=heatmap)
 
 ---
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html&size=100)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css&size=100)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js&size=100)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap&size=/100)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=materialui&size=100)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb&size=100)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express&size=100)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react&size=100)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs&size=100)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql&size=100)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git&size=100)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github&size=100)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode&size=100)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm&size=100)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows&size=100)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+---
 
-[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
-
+### Some GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mayappa123&theme=radical)](https://github.com/Mayappa123/github-profile-trophy)
 
 ---
 
@@ -59,11 +90,13 @@ Feel free to connect with me through the following platforms:
 
 ---
 
-<div align="center">
-  <h3>👀 Visitor Count:</h3>
- 
-  ![Visitor Count](https://profile-counter.glitch.me/Mayappa123/count.svg)
-  
-</div>
+# My Projects
+
+| Serial No. | Project Name       | Live Link                                            | Repo Link                                       |
+|------------|--------------------|------------------------------------------------------|------------------------------------------------|
+| 1          | Weather App        | [Live](https://mayappa123.github.io/weatherApp/)     | [Repo](https://github.com/Mayappa123/weatherApp) |
+| 2          | Tic-Tac-Toe Game   | [Live](https://mayappa123.github.io/PRODIGY_WD_03/)  | [Repo](https://github.com/Mayappa123/PRODIGY_WD_03)  |
+| 3          | Stopwatch App      | [Live](https://mayappa123.github.io/PRODIGY_WD_02/)  | [Repo](https://github.com/Mayappa123/stopwatch-app) |
+| 4          | Portfolio          | [Live](https://mayappa123.github.io/Portfolio/)      | [Repo](https://github.com/Mayappa123/Portfolio) |
 
 
