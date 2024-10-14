@@ -2,20 +2,23 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Full+Stack+Web+Developer;Front+End+Developer;Back+End+Developer)](https://git.io/typing-svg)
 
-<div> 
-    <div>
-          🚀 I'm a passionate learner currently focusing on web development.
+<table>
+    <tr>
+        <td>
+            🚀 I'm a passionate learner currently focusing on web development.  
+            <br/><br/>
+            🤝 I'm eager to collaborate on exciting and innovative projects that align with my skills and interests.  
+            <br/><br/>
+            📚 I love sharing knowledge through my code, articles, posts, and talks.  
+            <br/><br/>
+            📃 <a href="https://drive.google.com/file/d/1T5F43dmgrG4GEYv5osCbTZVmx8NfioTT/view?usp=drive_link" target="_blank">View My Resume</a> for more details.
+        </td>
+        <td>
+            <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+        </td>
+    </tr>
+</table>
 
-          🤝 I'm eager to collaborate on exciting and innovative projects that align with my skills and interests.
-
-           📚 I love sharing knowledge through my code, articles, posts, and talks.
-
-           📃 <a href="https://drive.google.com/file/d/1T5F43dmgrG4GEYv5osCbTZVmx8NfioTT/view?usp=drive_link" target="_blank">View My Resume</a> for more details.
-    </div>
-    <div align="center">
-         <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-    </div>
-</div>
 
 ---
 <div align="center">
