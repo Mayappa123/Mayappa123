@@ -16,14 +16,6 @@
          <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
     </div>
 </div>
-<!-- 🚀 I'm a passionate learner currently focusing on web development.
-
-🤝 I'm eager to collaborate on exciting and innovative projects that align with my skills and interests.
-
-📚 I love sharing knowledge through my code, articles, posts, and talks.
-
-📃 <a href="https://drive.google.com/file/d/1T5F43dmgrG4GEYv5osCbTZVmx8NfioTT/view?usp=drive_link" target="_blank">View My Resume</a> for more details. -->
-
 
 ---
 <div align="center">
