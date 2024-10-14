@@ -49,29 +49,27 @@
 
 ![Mayappa's LeetCode Stats](https://leetcard.jacoblin.cool/Mayappa123?theme=dark&ext=heatmap)
 
-
-
 ---
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html&size=70)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=css&size=70)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js&size=70)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap&size=70)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=materialui&size=70)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html&size=80)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css&size=80)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js&size=80)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap&size=/80)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=materialui&size=80)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb&size=70)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=express&size=70)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react&size=70)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs&size=70)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql&size=70)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb&size=80)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express&size=80)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react&size=80)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs&size=80)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql&size=80)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git&size=70)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github&size=70)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode&size=70)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=npm&size=70)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=windows&size=70)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git&size=80)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github&size=80)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode&size=80)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm&size=80)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows&size=80)](https://skillicons.dev)
 
 
 ---
