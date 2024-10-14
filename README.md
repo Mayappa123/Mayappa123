@@ -92,3 +92,8 @@ Feel free to connect with me through the following platforms:
 | 3          | Stopwatch App      | [Live](https://mayappa123.github.io/PRODIGY_WD_02/)  | [Repo](https://github.com/Mayappa123/stopwatch-app) |
 | 4          | Portfolio          | [Live](https://mayappa123.github.io/Portfolio/)      | [Repo](https://github.com/Mayappa123/Portfolio) |
 
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
