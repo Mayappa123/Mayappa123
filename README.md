@@ -55,24 +55,24 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html&size=70)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css&size=70)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js&size=70)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap&size=70)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=materialui&size=70)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=mongodb&size=70)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express&size=70)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react&size=70)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs&size=70)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql&size=70)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git&size=70)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github&size=70)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode&size=70)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm&size=70)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows&size=70)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
 ---
 
