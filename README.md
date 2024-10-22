@@ -11,7 +11,7 @@
             <br/><br/>
             📚 I love sharing knowledge through my code, articles, posts, and talks.  
             <br/><br/>
-            📃 <a href="https://drive.google.com/file/d/1T5F43dmgrG4GEYv5osCbTZVmx8NfioTT/view?usp=drive_link" target="_blank">View My Resume</a> for more details.
+            📃 <a href="https://drive.google.com/file/d/1jv9oYOhoy9niTxQPDp6kxgpft7elSrjp/view?usp=drivesdk" target="_blank">View My Resume</a> for more details.
         </td>
         <td>
             <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
