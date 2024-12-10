@@ -5,7 +5,7 @@
 <table>
     <tr>
         <td>
-            🚀 I'm a passionate learner currently focusing on web development.  
+            🚀 I'm a passionate in coding and currently focusing on web development (MERN Stack Development).  
             <br/><br/>
             🤝 I'm eager to collaborate on exciting and innovative projects that align with my skills and interests.  
             <br/><br/>
