@@ -5,13 +5,13 @@
 <table>
     <tr>
         <td>
-            🚀 I'm a passionate learner currently focusing on web development.  
+            🚀 I'm a passionate in coding and currently focusing on web development (MERN Stack Development).  
             <br/><br/>
             🤝 I'm eager to collaborate on exciting and innovative projects that align with my skills and interests.  
             <br/><br/>
             📚 I love sharing knowledge through my code, articles, posts, and talks.  
             <br/><br/>
-            📃 <a href="https://drive.google.com/file/d/1T5F43dmgrG4GEYv5osCbTZVmx8NfioTT/view?usp=drive_link" target="_blank">View My Resume</a> for more details.
+            📃 <a href="https://drive.google.com/file/d/1_OgXf0qCIubpK7CPk5wBlmy0ynAmtFIf/view?usp=drive_link" target="_blank">View My Resume</a> for more details.
         </td>
         <td>
             <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -99,4 +99,5 @@ Feel free to connect with me through the following platforms:
 | 3          | Stopwatch App      | [Live](https://mayappa123.github.io/PRODIGY_WD_02/)  | [Repo](https://github.com/Mayappa123/stopwatch-app) |
 | 4          | Portfolio          | [Live](https://mayappa123.github.io/Portfolio/)      | [Repo](https://github.com/Mayappa123/Portfolio) |
 
+---
 
