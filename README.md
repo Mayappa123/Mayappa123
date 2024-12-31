@@ -88,6 +88,7 @@ Feel free to connect with me through the following platforms:
 [<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="45" style="margin-right: 40;"/>](mailto:mayappapujari561999@gmail.com)
 [<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" style="margin-right: 0;"/>](https://www.instagram.com/coding_with_mech_boy/)
 
+
 ---
 
 # My Projects
