@@ -46,8 +46,9 @@
 ---
 
 ### 🔥 LeetCode Streak Stats:
-
+<div align="center" width="400">
 ![Mayappa's LeetCode Stats](https://leetcard.jacoblin.cool/Mayappa123?theme=dark&ext=heatmap)
+</div>
 
 ---
 
